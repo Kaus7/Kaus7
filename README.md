@@ -9,7 +9,7 @@
 
 💡 Let's Connect and Collaborate:
   Open to networking, discussions, and co-creating software wonders. Feel free to reach me at kaustubh.b09@gmail.com 
-  kaustubh.b09@gmail.com 
+
 <!---
 Kaus7/Kaus7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
